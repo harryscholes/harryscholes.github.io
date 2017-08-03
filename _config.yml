@@ -1,2 +1,34 @@
-theme: jekyll-theme-minimal
-name: Harry Scholes
+title: Harry Scholes
+description: The home of Harry Scholes on the internet
+
+baseurl: ""
+url: "https://harryscholes.github.io"
+
+author:
+  name: Harry Scholes
+  email: "harryscholes@gmail.com"
+  phone: +447849374431
+  github: harryscholes
+  twitter: harryscholes
+  linkedin: harryscholes
+  stackoverflow: 5049524/harryscholes
+  snapchat: harry.scholes
+  instagram: harry.scholes
+  scholar: jKGXyxcAAAAJ
+
+
+
+# Build settings
+markdown: kramdown
+
+plugins: ['jekyll-twitter-plugin']
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - /tmp/
+  - config.ru
+
+
+# Development Parameter for Puma
+#destination: "public/minimal-jekyll-ghp"

@@ -1,8 +1,9 @@
 ---
+title: Hello!
 layout: default
-title: Harry Scholes
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Harry Scholes</h1>
-	<p>I am a PhD student at UCL supervised by Christine Orengo</p>
-</div><!-- /.blurb -->
+<section>
+  <h1><span> </span></h1>
+  {% capture my_include %}{% include index.md %}{% endcapture %}
+  {{ my_include | markdownify }}
+</section>
