@@ -1,5 +1,5 @@
 title: Harry Scholes
-description: The home of Harry Scholes on the internet
+description: Me, on the internet
 
 baseurl: ""
 url: "https://harryscholes.github.io"
@@ -21,14 +21,8 @@ author:
 # Build settings
 markdown: kramdown
 
-#plugins: ['jekyll-twitter-plugin']
-
 exclude:
   - Gemfile
   - Gemfile.lock
   - /tmp/
   - config.ru
-
-
-# Development Parameter for Puma
-#destination: "public/minimal-jekyll-ghp"
