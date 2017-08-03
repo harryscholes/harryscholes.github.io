@@ -25,8 +25,3 @@ Check my personal projects out on [GitHub](https://github.com/{{ site.author.git
 - [GOATOOLS](https://github.com/tanghaibao/goatools)
 
 I occasionally answer questions on [Stack Overflow](https://stackoverflow.com/users/{{ site.author.stackoverflow}}).
-
-
-### Twitter
-
-{% twitter https://twitter.com/harryscholes limit=5 %}
