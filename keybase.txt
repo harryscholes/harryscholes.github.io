@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/harryscholes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://harryscholes.github.io
+  * I am harryscholes (https://keybase.io/harryscholes) on keybase.
+  * I have a public key ASB46XcHPdiNgGh6EaQhhLHvrpQGAMwzN0FLjDAHulJ65wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012078e977073dd88d80687a11a42184b1efae940600cc3337414b8c3007ba527ae70a",
+      "host": "keybase.io",
+      "kid": "012078e977073dd88d80687a11a42184b1efae940600cc3337414b8c3007ba527ae70a",
+      "uid": "6d27cddcfb6935923e4f74f36e8dd119",
+      "username": "harryscholes"
+    },
+    "merkle_root": {
+      "ctime": 1518426761,
+      "hash": "a2950435bc4c08db23afbbb2dc3358126d2d815c1ac0a12af3c6cee4ec2b7e17bed69b8857b07cc1db3828dbadbb7088d549abe7457e411d01fa07ac3248d46c",
+      "hash_meta": "b6436c4d59261a769239f401a965782a47c47ee9cfb67240365b0838ae61d9aa",
+      "seqno": 2069241
+    },
+    "service": {
+      "hostname": "harryscholes.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1518426798,
+  "expire_in": 504576000,
+  "prev": "ca6e7225e691e7ce9d5060bb089fe5c6706beaf14931c2c93efb5a7b60f36ec1",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeOl3Bz3YjYBoehGkIYSx766UBgDMMzdBS4wwB7pSeucKp3BheWxvYWTFA1J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzhlOTc3MDczZGQ4OGQ4MDY4N2ExMWE0MjE4NGIxZWZhZTk0MDYwMGNjMzMzNzQxNGI4YzMwMDdiYTUyN2FlNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzhlOTc3MDczZGQ4OGQ4MDY4N2ExMWE0MjE4NGIxZWZhZTk0MDYwMGNjMzMzNzQxNGI4YzMwMDdiYTUyN2FlNzBhIiwidWlkIjoiNmQyN2NkZGNmYjY5MzU5MjNlNGY3NGYzNmU4ZGQxMTkiLCJ1c2VybmFtZSI6ImhhcnJ5c2Nob2xlcyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxODQyNjc2MSwiaGFzaCI6ImEyOTUwNDM1YmM0YzA4ZGIyM2FmYmJiMmRjMzM1ODEyNmQyZDgxNWMxYWMwYTEyYWYzYzZjZWU0ZWMyYjdlMTdiZWQ2OWI4ODU3YjA3Y2MxZGIzODI4ZGJhZGJiNzA4OGQ1NDlhYmU3NDU3ZTQxMWQwMWZhMDdhYzMyNDhkNDZjIiwiaGFzaF9tZXRhIjoiYjY0MzZjNGQ1OTI2MWE3NjkyMzlmNDAxYTk2NTc4MmE0N2M0N2VlOWNmYjY3MjQwMzY1YjA4MzhhZTYxZDlhYSIsInNlcW5vIjoyMDY5MjQxfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImhhcnJ5c2Nob2xlcy5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40MCJ9LCJjdGltZSI6MTUxODQyNjc5OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJjYTZlNzIyNWU2OTFlN2NlOWQ1MDYwYmIwODlmZTVjNjcwNmJlYWYxNDkzMWMyYzkzZWZiNWE3YjYwZjM2ZWMxIiwic2Vxbm8iOjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA5RqLMX6D/bx3PS8uSMZcfphwaiyFtg+/cPBnpKBsFupGmFIcuGjxIcxGd8yfJcZ31fkRQTrDlSgK/BeAHK3tDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGNMJ9hoMwNKW6mTGiHD9Z0bUvTdHc9ryGPq4VSE4PNNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/harryscholes
+
+==================================================================
