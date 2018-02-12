@@ -26,3 +26,6 @@ exclude:
   - Gemfile.lock
   - /tmp/
   - config.ru
+
+include:
+  - keybase.txt
