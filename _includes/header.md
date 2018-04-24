@@ -1,9 +1,7 @@
 # Harry Scholes
 
-#### Curing aging one yeast at a time
+<br>
 
-I am a bioinformatics PhD student at [UCL](https://www.ucl.ac.uk/) supervised by [Christine Orengo](https://www.cathdb.info).
+> I'm a computational biology PhD student at [UCL](https://www.ucl.ac.uk/) interested in Python, AI, machine learning, crypto, science and technology.
 
-I am interested in aging.
-
-We all know *what* aging is, but **how** and **why** we age remain a mystery. To answer these questions, I take an interdisciplinary approach that includes graph theory, kernel methods and machine learning to identify genes that cause fission yeast to age. Ultimately, my research will be transferred from yeast to human, so that drugs can be developed to cure aging.
+![me](/assets/img/me.jpg){:class="img-responsive"}
