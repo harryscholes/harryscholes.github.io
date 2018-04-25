@@ -1,17 +1,5 @@
 <footer>
-  <h5>Other places to find me</h5>
-  <a class="btn btn-social-icon btn-twitter" href="http://twitter.com/{{ site.author.twitter }}">
-    <span class="fa fa-twitter"></span>
-  </a>
-  <a class="btn btn-social-icon btn-github" href="http://github.com/{{ site.author.github }}">
-    <span class="fa fa-github"></span>
-  </a>
-  <a class="btn btn-social-icon btn-stackoverflow" href="http://stackoverflow.com/users/{{ site.author.stackoverflow }}">
-    <span class="fa fa-stack-overflow"></span>
-  </a>
-  <a class="btn btn-social-icon btn-scholar" href="https://scholar.google.co.uk/citations?user={{ site.author.scholar }}">
-    <span class="fa fa-mortar-board"></span>
-  </a>
-  <p>&mdash;</p>
+  {% capture my_include %}{% include footer.md %}{% endcapture %}
+  {{ my_include | markdownify }}
   <p><small>&copy; {{ 'now' | date: "%Y" }}</small></p>
 </footer>

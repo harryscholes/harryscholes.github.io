@@ -3,22 +3,24 @@
 I ❤️ Python and use it for 99% of my work.
 
 Check out my personal projects on [GitHub](https://github.com/{{ site.author.github}}), e.g.
- - [`nuts`](https://github.com/harryscholes/nuts): a Python package for calculating kernels on graphs
- - [`agape`](https://github.com/harryscholes/agape): **A**utomatic **G**ene Ontology **a**nnotation **p**rediction in S. pomb**e** in Python
+ - [`nuts`](https://github.com/{{ site.author.github}}/nuts): a Python package for calculating kernels on graphs
+ - [`agape`](https://github.com/{{ site.author.github}}/agape): **A**utomatic **G**ene Ontology **a**nnotation **p**rediction in S. pomb**e** in Python
 
-Or my [Gists](https://gist.github.com/harryscholes/). Or my answers on [Stack Overflow](https://stackoverflow.com/users/{{ site.author.stackoverflow}}).
+I also post on [Twitter](http://twitter.com/{{ site.author.twitter }}), answer questions on [Stack Overflow](https://stackoverflow.com/users/{{ site.author.stackoverflow}}) and write [Gists](https://gist.github.com/{{ site.author.github}}) of my ideas.
 
 
 ### Open source
 
 I have contributed a number of pull requests to open source projects, e.g.
- - [Added `to_numpy_array` and `from_numpy_array` functions to NetworkX](https://github.com/networkx/networkx/pull/2522) that convert a `Graph` object to/from its adjacency matrix
+ - [Added `to_numpy_array` and `from_numpy_array` functions to NetworkX](https://github.com/networkx/networkx/pull/2522) that convert a `Graph` object to/from an adjacency matrix
  - [Implemented deterministic graph layouts in NetworkX](https://github.com/networkx/networkx/pull/2766) via the `random_state` keyword argument
 
 
 ### Research
 
-In my PhD, I want to assign functions to all genes in the fission yeast *S. pombe*. To do this, I use machine learning to learn patterns of genes in large data sets and then predict which [Gene Ontology](http://geneontology.org/) terms are associated with each gene.
+I predict the functions of genes using machine learning.
+
+I work on the fission yeast *S. pombe* and want to comprehensively annotate its genome with functions. To do this, I use machine learning to identify patterns in large experimental data sets and predict which [Gene Ontology](http://geneontology.org/) terms I think are associated with each gene.
 
 
 ### Academic background
