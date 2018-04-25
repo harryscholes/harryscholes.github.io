@@ -4,7 +4,7 @@ I ❤️ Python and use it for 99% of my work.
 
 Check out my personal projects on [GitHub](https://github.com/{{ site.author.github}}), e.g.
  - [`nuts`](https://github.com/{{ site.author.github}}/nuts): a Python package for calculating kernels on graphs
- - [`agape`](https://github.com/{{ site.author.github}}/agape): **A**utomatic **G**ene Ontology **a**nnotation **p**rediction in S. pomb**e** in Python
+ - [`agape`](https://github.com/{{ site.author.github}}/agape): **A**utomatic **G**ene Ontology **a**nnotation **p**rediction in *S. pomb**e*** in Python
 
 I also post on [Twitter](http://twitter.com/{{ site.author.twitter }}), answer questions on [Stack Overflow](https://stackoverflow.com/users/{{ site.author.stackoverflow}}) and write [Gists](https://gist.github.com/{{ site.author.github}}) of my ideas.
 
