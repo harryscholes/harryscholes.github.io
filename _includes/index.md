@@ -1,6 +1,6 @@
 ### Programming
 
-I ❤️Python and use it for 99% of my work.
+I ❤️ Python and use it for 99% of my work.
 
 Check out my personal projects on [GitHub](https://github.com/{{ site.author.github}}), e.g.
  - [`nuts`](https://github.com/{{ site.author.github}}/nuts): a Python package for calculating kernels on graphs
