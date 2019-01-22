@@ -24,7 +24,7 @@ I want to comprehensively annotate the genome of the fission yeast *S. pombe* wi
 
 ##### 2018
 - **CATH: expanding the horizons of structure-based functional annotations for genome sequences**
-Ian Sillitoe, Natalie Dawson, Tony E Lewis, Sayoni Das, Jonathan G Lees, Paul Ashford, Adeyelu Tolulope, Harry M Scholes, Ilya Senatorov, Andra Bujan, Fatima Ceballos Rodriguez-Conde, Benjamin Dowling, Janet Thornton, Christine A Orengo
+Sillitoe I, Dawson N, Lewis TE, Das S, Lees JG, Ashford P, Tolulope A, Scholes HM, Senatorov I, Bujan A, Rodriguez-Conde FC, Dowling B, Thornton J, Orengo CA
 *Nucleic Acids Research, 2019 Jan 8;47(D1):D280–D284*
 DOI [10.1093/nar/gky1097](https://doi.org/10.1093/nar/gky1097), PubMed [30398663](https://www.ncbi.nlm.nih.gov/pubmed/30398663)
 
