@@ -29,7 +29,7 @@ Ian Sillitoe, Natalie Dawson, Tony E Lewis, Sayoni Das, Jonathan G Lees, Paul As
 DOI [10.1093/nar/gky1097](https://doi.org/10.1093/nar/gky1097), PubMed [30398663](https://www.ncbi.nlm.nih.gov/pubmed/30398663)
 
 ##### 2013
-- **CD8+ T cell responses to lytic EBV infection: late antigen specificities as subdominant components of the total response**  
-Abbott RJ, Quinn LL, Leese AM, Scholes HM, Pachnio A, Rickinson AB  
-*Journal of Immunology 2013 Dec 1;191(11):5398-409*  
+- **CD8+ T cell responses to lytic EBV infection: late antigen specificities as subdominant components of the total response**
+Abbott RJ, Quinn LL, Leese AM, Scholes HM, Pachnio A, Rickinson AB
+*Journal of Immunology 2013 Dec 1;191(11):5398-409*
 DOI [10.4049/jimmunol.1301629](http://dx.doi.org/10.4049/jimmunol.1301629), PubMed [24146041](https://www.ncbi.nlm.nih.gov/pubmed/24146041)
